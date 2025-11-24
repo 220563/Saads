@@ -9,8 +9,8 @@ public class Calculator {
         // Display menu of operations
         System.out.println("Welcome to the Simple Calculator");
         System.out.println("Select operation:");
-        System.out.println("1. +");
-        System.out.println("2. -");
+        System.out.println("1. Add");
+        System.out.println("2. Substract");
         System.out.println("3. *");
         System.out.println("4. /");
 
